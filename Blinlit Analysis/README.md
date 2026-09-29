@@ -1,4 +1,4 @@
-# ðŸ›’ BlinkIT Grocery Sales & Outlet Analysis
+# BlinkIT Grocery Sales & Outlet Analysis
 
 > **Question:** Which product and outlet characteristics are associated with sales in this grocery dataset?
 
