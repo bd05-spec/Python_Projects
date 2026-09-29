@@ -1,4 +1,4 @@
-# ðŸ¦ Bank Loan Portfolio Analysis
+# Bank Loan Portfolio Analysis
 
 > **Question:** How large is this loan portfolio, how much has been funded and repaid, and how do outcomes vary by time, borrower, and loan characteristics?
 
@@ -19,9 +19,9 @@ The notebook defines *good loans* as `Fully Paid` or `Current`, and *bad loans* 
 ```mermaid
 flowchart LR
     A[financial_loan.csv<br/>38,576 records] --> B[Inspect fields<br/>types and summaries]
-    B --> C[Calculate portfolio KPIs<br/>applications Â· funded Â· received]
+    B --> C[Calculate portfolio KPIs<br/>applications  |  funded  |  received]
     C --> D[Segment by loan status<br/>good vs charged off]
-    D --> E[Explore time and borrower mix<br/>month Â· state Â· term Â· purpose]
+    D --> E[Explore time and borrower mix<br/>month  |  state  |  term  |  purpose]
     E --> F[Notebook charts and findings]
 ```
 
