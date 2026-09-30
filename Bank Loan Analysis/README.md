@@ -24,9 +24,9 @@ The notebook defines *good loans* as `Fully Paid` or `Current`, and *bad loans* 
 ```mermaid
 flowchart LR
     A[financial_loan.csv<br/>38,576 records] --> B[Inspect fields<br/>types and summaries]
-    B --> C[Calculate portfolio KPIs<br/>applications  |  funded  |  received]
+    B --> C[Calculate portfolio KPIs<br/>applications, funded, received]
     C --> D[Segment by loan status<br/>good vs charged off]
-    D --> E[Explore time and borrower mix<br/>month  |  state  |  term  |  purpose]
+    D --> E[Explore time and borrower mix<br/>month, state, term, purpose]
     E --> F[Notebook charts and findings]
 ```
 
