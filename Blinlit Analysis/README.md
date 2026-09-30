@@ -1,5 +1,10 @@
 # BlinkIT Grocery Sales & Outlet Analysis
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** Which product and outlet characteristics are associated with sales in this grocery dataset?
 
 This notebook analyzes **8,523 item/outlet records**. It starts with basic data-quality checks, normalizes inconsistent fat-content labels, and then compares sales and ratings across products, outlet tiers, outlet sizes, and outlet-establishment years. The result is a compact example of turning a retail extract into business-facing KPIs and charts.

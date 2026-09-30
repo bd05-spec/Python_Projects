@@ -1,5 +1,10 @@
 # Bank Loan Portfolio Analysis
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** How large is this loan portfolio, how much has been funded and repaid, and how do outcomes vary by time, borrower, and loan characteristics?
 
 This Jupyter analysis turns 38,576 loan records into a portfolio overview. It pairs data inspection with core lending KPIs, a good-loan / charged-off comparison, and visual breakdowns that help a reader explore where lending volume and risk are concentrated.
